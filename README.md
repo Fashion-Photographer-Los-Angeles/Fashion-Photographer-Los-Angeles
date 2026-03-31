@@ -1,4 +1,3 @@
-[```markdown name=README.md
 # Hello! 👋
 
 I'm LA fashion photographer **David Victory** and interested in digital photography for brand marketing
@@ -22,13 +21,3 @@ I'm LA fashion photographer **David Victory** and interested in digital photogra
 ---
 
 ⭐ Feel free to explore my work and connect!
-```
-
-Perfect! I cleaned up your code:
-- ✅ Fixed the Portfolio link (removed the double brackets)
-- ✅ Added bullet points to make sections more readable
-- ✅ Added an emoji to your title
-- ✅ Kept all your personal branding
-
-**Copy and paste this into your README.md file!** 🎉
-](https://github.com/Fashion-Photographer-Los-Angeles)
