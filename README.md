@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello!
 
-<!--
-**Fashion-Photographer-Los-Angeles/Fashion-Photographer-Los-Angeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm LA fashion photographer David Victory
 
-Here are some ideas to get you started:
+## 🛠️ Fascinations
+Digital Cameras
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Interests
+Fashion Photography
+
+## 📫 Connect
+- 📧 Mailform: https://vrset.com/contact-david-victory-fashion-photographer-los-angeles/
+- 🔗 Portfolio: https://vrset.com/fashion-photographer-los-angeles/
