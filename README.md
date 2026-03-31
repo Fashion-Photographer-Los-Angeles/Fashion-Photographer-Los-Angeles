@@ -1,4 +1,4 @@
-```markdown name=README.md
+[```markdown name=README.md
 # Hello! 👋
 
 I'm LA fashion photographer **David Victory** and interested in digital photography for brand marketing
@@ -31,3 +31,4 @@ Perfect! I cleaned up your code:
 - ✅ Kept all your personal branding
 
 **Copy and paste this into your README.md file!** 🎉
+](https://github.com/Fashion-Photographer-Los-Angeles)
